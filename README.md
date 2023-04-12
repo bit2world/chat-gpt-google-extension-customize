@@ -5,6 +5,7 @@
 
 Deep ChatGPT integrations in your browser, completely for free.
 
+</div>
 
 ## News
 
