@@ -9,9 +9,7 @@ Deep ChatGPT integrations in your browser, completely for free.
 
 ## News
 
-- This extension does **not** collect your data. You can verify it by conducting a global search for `fetch(` and `XMLHttpRequest(` in the code to find all network request calls. The amount of code is not much, so it's easy to do that.
-
-- Offline/Self-hosted model (llama.cpp, ChatGLM) is now supported, See https://github.com/josStorer/selfhostedAI
+This extension does **not** collect your data. You can verify it by conducting a global search for `fetch(` and `XMLHttpRequest(` in the code to find all network request calls. The amount of code is not much, so it's easy to do that.
 
 ## ✨ Features
 
